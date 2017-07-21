@@ -22,5 +22,6 @@ inline fun <reified T : View> View.findViewById(@LayoutRes res: Int): T = findVi
 inline fun <reified T : View> View.findViewById(@LayoutRes res: Int): T = findViewById(res) as T
 inline fun <reified T : View> View.findViewById(@LayoutRes res: Int): T = findViewById(res) as T
 ```
+@[1,2]  
 @[1]  
 @[2]
