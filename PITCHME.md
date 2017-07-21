@@ -9,6 +9,12 @@
 * たちつてと |  
 * なにぬねの |  
 
+- Java
+- JavaScript |
+- Kotlin |
+- Go |
+- Scala |
+
 ---
 
 ```
