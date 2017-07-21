@@ -4,15 +4,15 @@
 
 # あいうえお
 
-* かきくけこ
-* さしすせそ |
-* たちつてと |
-* なにぬねの | 
-* Java |
-* JavaScript |
-* Kotlin |
-* Go |
-* Scala |
+かきくけこ
+さしすせそ |
+たちつてと |
+なにぬねの | 
+Java |
+JavaScript |
+Kotlin |
+Go |
+Scala |
 
 ---
 
